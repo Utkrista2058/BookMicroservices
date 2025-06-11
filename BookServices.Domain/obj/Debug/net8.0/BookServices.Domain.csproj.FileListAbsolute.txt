@@ -1,0 +1,11 @@
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\bin\Debug\net8.0\BookServices.Domain.deps.json
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\bin\Debug\net8.0\BookServices.Domain.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\bin\Debug\net8.0\BookServices.Domain.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\BookServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\BookServices.Domain.AssemblyInfoInputs.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\BookServices.Domain.AssemblyInfo.cs
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\BookServices.Domain.csproj.CoreCompileInputs.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\BookServices.Domain.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\refint\BookServices.Domain.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\BookServices.Domain.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Domain\obj\Debug\net8.0\ref\BookServices.Domain.dll

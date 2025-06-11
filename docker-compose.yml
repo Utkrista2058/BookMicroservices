@@ -1,0 +1,14 @@
+
+
+services:
+  bookservice-api:
+    build:
+      context: .
+      dockerfile: BookServices.API/Dockerfile
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=103.180.240.24,8189;Database=BookDb;User=sa;Password=Nepotech@123*;
+
+

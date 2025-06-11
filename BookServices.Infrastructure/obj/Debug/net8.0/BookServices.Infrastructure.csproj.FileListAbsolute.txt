@@ -1,0 +1,17 @@
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\bin\Debug\net8.0\BookServices.Infrastructure.deps.json
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\bin\Debug\net8.0\BookServices.Infrastructure.runtimeconfig.json
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\bin\Debug\net8.0\BookServices.Infrastructure.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\bin\Debug\net8.0\BookServices.Infrastructure.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\bin\Debug\net8.0\BookServices.Domain.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\bin\Debug\net8.0\BookServices.Domain.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.csproj.AssemblyReference.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.AssemblyInfoInputs.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.AssemblyInfo.cs
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServ.1C1E5ADA.Up2Date
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\refint\BookServices.Infrastructure.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\BookServices.Infrastructure.genruntimeconfig.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Infrastructure\obj\Debug\net8.0\ref\BookServices.Infrastructure.dll

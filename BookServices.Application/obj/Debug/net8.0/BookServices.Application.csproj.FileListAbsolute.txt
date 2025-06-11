@@ -1,0 +1,17 @@
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Application.deps.json
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Application.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Application.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Domain.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Infrastructure.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Domain.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\bin\Debug\net8.0\BookServices.Infrastructure.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.csproj.AssemblyReference.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.AssemblyInfoInputs.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.AssemblyInfo.cs
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.csproj.CoreCompileInputs.cache
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServ.A5A72D29.Up2Date
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\refint\BookServices.Application.dll
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\BookServices.Application.pdb
+E:\Office\repos\BookStoreMicroservices\BookServices.Application\obj\Debug\net8.0\ref\BookServices.Application.dll
